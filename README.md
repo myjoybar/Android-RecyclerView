@@ -7,6 +7,7 @@
 *   RecyclerView Item添加与删除动画效果
 *   RecyclerView滚动状态监听
 *   LayoutManager的使用
+
 ###DEMO效果图：
 
 ![image](https://github.com/myjoybar/Android-RecyclerView/blob/master/Android-RecyclerView/Image/demo.gif)
